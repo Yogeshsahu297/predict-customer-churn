@@ -1,0 +1,68 @@
+root - INFO - test_import: SUCCESS - file loaded
+root - INFO - test_import: SUCCESS - shape=(5000, 22), Churn column present
+root - INFO - perform_eda: SUCCESS - saved 5 EDA plots to ./images/eda
+root - INFO - test_eda: SUCCESS - all 5 EDA images present
+root - INFO - encoder_helper: SUCCESS - encoded 5 categorical columns
+root - INFO - test_encoder_helper: SUCCESS - 5 columns encoded correctly
+root - INFO - encoder_helper: SUCCESS - encoded 5 categorical columns
+root - INFO - perform_feature_engineering: SUCCESS - X_train (3500, 19), X_test (1500, 19)
+root - INFO - test_perform_feature_engineering: SUCCESS - X_train (3500, 19), X_test (1500, 19)
+root - INFO - train_models: SUCCESS - random forest grid search complete
+root - INFO - train_models: SUCCESS - logistic regression fit complete
+root - INFO - classification_report_image: SUCCESS - saved classification report images
+root - INFO - feature_importance_plot: SUCCESS - saved to ./images/results/feature_importances.png
+root - INFO - train_models: SUCCESS - saved rfc_model.pkl and logistic_model.pkl
+root - INFO - test_train_models: SUCCESS - 2 models and 4 result images present
+root - INFO - perform_eda: SUCCESS - saved 5 EDA plots to ./images/eda
+root - INFO - encoder_helper: SUCCESS - encoded 5 categorical columns
+root - INFO - perform_feature_engineering: SUCCESS - X_train (3500, 19), X_test (1500, 19)
+root - INFO - train_models: SUCCESS - random forest grid search complete
+root - INFO - train_models: SUCCESS - logistic regression fit complete
+root - INFO - classification_report_image: SUCCESS - saved classification report images
+root - INFO - test_import: SUCCESS - file loaded
+root - INFO - test_import: SUCCESS - shape=(5000, 22), Churn column present
+root - INFO - perform_eda: SUCCESS - saved 5 EDA plots to ./images/eda
+root - INFO - test_eda: SUCCESS - all 5 EDA images present
+root - INFO - encoder_helper: SUCCESS - encoded 5 categorical columns
+root - INFO - test_encoder_helper: SUCCESS - 5 columns encoded correctly
+root - INFO - encoder_helper: SUCCESS - encoded 5 categorical columns
+root - INFO - perform_feature_engineering: SUCCESS - X_train (3500, 19), X_test (1500, 19)
+root - INFO - test_perform_feature_engineering: SUCCESS - X_train (3500, 19), X_test (1500, 19)
+root - INFO - train_models: SUCCESS - random forest grid search complete
+root - INFO - train_models: SUCCESS - logistic regression fit complete
+root - INFO - classification_report_image: SUCCESS - saved classification report images
+root - INFO - feature_importance_plot: SUCCESS - saved to ./images/results/feature_importances.png
+root - INFO - train_models: SUCCESS - saved rfc_model.pkl and logistic_model.pkl
+root - INFO - test_train_models: SUCCESS - 2 models and 4 result images present
+root - INFO - perform_eda: SUCCESS - saved 5 EDA plots to ./images/eda
+root - INFO - encoder_helper: SUCCESS - encoded 5 categorical columns
+root - INFO - perform_feature_engineering: SUCCESS - X_train (3500, 19), X_test (1500, 19)
+root - INFO - train_models: SUCCESS - random forest grid search complete
+root - INFO - train_models: SUCCESS - logistic regression fit complete
+root - INFO - classification_report_image: SUCCESS - saved classification report images
+root - INFO - feature_importance_plot: SUCCESS - saved to ./images/results/feature_importances.png
+root - INFO - train_models: SUCCESS - saved rfc_model.pkl and logistic_model.pkl
+root - INFO - perform_eda: SUCCESS - saved 5 EDA plots to ./images/eda
+root - INFO - encoder_helper: SUCCESS - encoded 5 categorical columns
+root - INFO - perform_feature_engineering: SUCCESS - X_train (3500, 19), X_test (1500, 19)
+root - INFO - train_models: SUCCESS - random forest grid search complete
+root - INFO - train_models: SUCCESS - logistic regression fit complete
+root - INFO - classification_report_image: SUCCESS - saved classification report images
+root - INFO - feature_importance_plot: SUCCESS - saved to ./images/results/feature_importances.png
+root - INFO - train_models: SUCCESS - saved rfc_model.pkl and logistic_model.pkl
+root - INFO - perform_eda: SUCCESS - saved 5 EDA plots to ./images/eda
+root - INFO - encoder_helper: SUCCESS - encoded 5 categorical columns
+root - INFO - perform_feature_engineering: SUCCESS - X_train (3500, 19), X_test (1500, 19)
+root - INFO - train_models: SUCCESS - random forest grid search complete
+root - INFO - train_models: SUCCESS - logistic regression fit complete
+root - INFO - classification_report_image: SUCCESS - saved classification report images
+root - INFO - feature_importance_plot: SUCCESS - saved to ./images/results/feature_importances.png
+root - INFO - train_models: SUCCESS - saved rfc_model.pkl and logistic_model.pkl
+root - INFO - perform_eda: SUCCESS - saved 5 EDA plots to ./images/eda
+root - INFO - encoder_helper: SUCCESS - encoded 5 categorical columns
+root - INFO - perform_feature_engineering: SUCCESS - X_train (3500, 19), X_test (1500, 19)
+root - INFO - train_models: SUCCESS - random forest grid search complete
+root - INFO - train_models: SUCCESS - logistic regression fit complete
+root - INFO - classification_report_image: SUCCESS - saved classification report images
+root - INFO - feature_importance_plot: SUCCESS - saved to ./images/results/feature_importances.png
+root - INFO - train_models: SUCCESS - saved rfc_model.pkl and logistic_model.pkl
